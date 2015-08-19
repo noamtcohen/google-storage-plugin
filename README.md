@@ -1,4 +1,4 @@
-Jenkins Google Storage Credentials Plugin
+Jenkins Google Storage for Static Sites
 =====================
 
 I forked this project and created a version where pages that are viewable in the browsers do not get download by not adding a content disposition header for those extensions.
